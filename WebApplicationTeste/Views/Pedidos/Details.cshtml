@@ -1,0 +1,67 @@
+﻿@model CamadaModel.Pedidos
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Pedidos</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Clientes.Nome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Clientes.Nome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Usuarios.Nome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Usuarios.Nome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ClientesId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ClientesId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.UsuariosId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UsuariosId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NumeroPedido)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NumeroPedido)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DataEntrega)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DataEntrega)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

@@ -1,0 +1,9 @@
+Projeto com entity Framework,Codefirst com seed, para executa-lo, basta abrir a solução e em seguida o projeto "WebApplicationTeste" depois alterar o caminho do banco de dados no Web.Config e executar a aplicação desenvolvida com "Code First".
+
+Utilizei intencionalmente consultas com ORM DAPPER e também consultas com ADO.
+ 
+Estou a disposição para maiores esclarecimentos 
+
+Atte.
+Vagner Correa dos Santos 
+11 99671-3564 

@@ -1,0 +1,61 @@
+﻿@model IEnumerable<CamadaModel.ItensPedidos>
+
+@{
+    ViewBag.Title = "Itens do Pedido";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="jumbotron">
+    <h2>Itens do Pedido Nº:@Html.Raw(ViewBag.NumeroPedido)</h2>
+    <h2>Cliente:@Html.Raw(ViewBag.Cliente)</h2>
+    <h2>Data de entrega:@Html.Raw(ViewBag.DataEntrega)</h2>
+</div>
+
+<a class="btn btn-sm btn-primary" href="/ItensPedidos/Create">Adicionar</a>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Pedidos.Id)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Produtos.Descricao)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ValorUnit)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Quantidade)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ValorTotal)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Pedidos.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Produtos.Descricao)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ValorUnit)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Quantidade)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ValorTotal)
+            </td>
+            <td> 
+                @Html.ActionLink("Excluir", "Delete", new { id = item.Id })
+            </td>
+        </tr>
+    }
+
+</table>
+<h2>@Html.Raw(ViewBag.TotalPedido)</h2>
+

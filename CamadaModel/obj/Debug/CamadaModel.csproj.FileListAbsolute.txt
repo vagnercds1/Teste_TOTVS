@@ -1,0 +1,12 @@
+C:\Users\vagne\source\repos\TesteTOTVS\CamadaModel\bin\Debug\CamadaModel.dll
+C:\Users\vagne\source\repos\TesteTOTVS\CamadaModel\bin\Debug\CamadaModel.pdb
+C:\Users\vagne\source\repos\TesteTOTVS\CamadaModel\obj\Debug\CamadaModel.csproj.CoreCompileInputs.cache
+C:\Users\vagne\source\repos\TesteTOTVS\CamadaModel\obj\Debug\CamadaModel.dll
+C:\Users\vagne\source\repos\TesteTOTVS\CamadaModel\obj\Debug\CamadaModel.pdb
+C:\Users\vagne\source\repos\TesteTOTVS\CamadaModel\obj\Debug\CamadaModel.csprojResolveAssemblyReference.cache
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\CamadaModel\bin\Debug\CamadaModel.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\CamadaModel\bin\Debug\CamadaModel.pdb
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\CamadaModel\obj\Debug\CamadaModel.csprojAssemblyReference.cache
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\CamadaModel\obj\Debug\CamadaModel.csproj.CoreCompileInputs.cache
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\CamadaModel\obj\Debug\CamadaModel.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\CamadaModel\obj\Debug\CamadaModel.pdb

@@ -1,0 +1,32 @@
+c:\users\vagne\source\repos\TesteTOTVS\CamadaDAL\bin\Debug\CamadaDAL.dll.config
+c:\users\vagne\source\repos\TesteTOTVS\CamadaDAL\bin\Debug\CamadaDAL.dll
+c:\users\vagne\source\repos\TesteTOTVS\CamadaDAL\bin\Debug\CamadaDAL.pdb
+c:\users\vagne\source\repos\TesteTOTVS\CamadaDAL\bin\Debug\Dapper.dll
+c:\users\vagne\source\repos\TesteTOTVS\CamadaDAL\bin\Debug\EntityFramework.dll
+c:\users\vagne\source\repos\TesteTOTVS\CamadaDAL\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\vagne\source\repos\TesteTOTVS\CamadaDAL\bin\Debug\Dapper.xml
+c:\users\vagne\source\repos\TesteTOTVS\CamadaDAL\bin\Debug\EntityFramework.xml
+c:\users\vagne\source\repos\TesteTOTVS\CamadaDAL\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\vagne\source\repos\TesteTOTVS\CamadaDAL\obj\Debug\CamadaDAL.csprojResolveAssemblyReference.cache
+c:\users\vagne\source\repos\TesteTOTVS\CamadaDAL\obj\Debug\CamadaDAL.csproj.CoreCompileInputs.cache
+c:\users\vagne\source\repos\TesteTOTVS\CamadaDAL\obj\Debug\CamadaDAL.csproj.CopyComplete
+c:\users\vagne\source\repos\TesteTOTVS\CamadaDAL\obj\Debug\CamadaDAL.dll
+c:\users\vagne\source\repos\TesteTOTVS\CamadaDAL\obj\Debug\CamadaDAL.pdb
+C:\Users\vagne\source\repos\TesteTOTVS\CamadaDAL\bin\Debug\CamadaModel.dll
+C:\Users\vagne\source\repos\TesteTOTVS\CamadaDAL\bin\Debug\CamadaModel.pdb
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\CamadaDAL\bin\Debug\CamadaDAL.dll.config
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\CamadaDAL\bin\Debug\CamadaDAL.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\CamadaDAL\bin\Debug\CamadaDAL.pdb
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\CamadaDAL\bin\Debug\CamadaModel.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\CamadaDAL\bin\Debug\Dapper.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\CamadaDAL\bin\Debug\EntityFramework.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\CamadaDAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\CamadaDAL\bin\Debug\CamadaModel.pdb
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\CamadaDAL\bin\Debug\Dapper.xml
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\CamadaDAL\bin\Debug\EntityFramework.xml
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\CamadaDAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\CamadaDAL\obj\Debug\CamadaDAL.csprojAssemblyReference.cache
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\CamadaDAL\obj\Debug\CamadaDAL.csproj.CoreCompileInputs.cache
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\CamadaDAL\obj\Debug\CamadaDAL.csproj.CopyComplete
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\CamadaDAL\obj\Debug\CamadaDAL.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\CamadaDAL\obj\Debug\CamadaDAL.pdb

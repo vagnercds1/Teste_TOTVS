@@ -1,0 +1,51 @@
+﻿@model CamadaModel.ItensPedidos
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>ItensPedidos</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Pedidos.Id)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Pedidos.Id)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Produtos.Descricao)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Produtos.Descricao)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Quantidade)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Quantidade)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ValorTotal)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ValorTotal)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

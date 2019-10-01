@@ -1,0 +1,218 @@
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\roslyn\System.Collections.Immutable.dll
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\roslyn\System.IO.FileSystem.dll
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\roslyn\System.Security.Cryptography.Primitives.dll
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\roslyn\System.ValueTuple.dll
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\roslyn\VBCSCompiler.exe
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\ApplicationInsights.config
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\WebApplicationTeste.dll.config
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\WebApplicationTeste.dll
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\WebApplicationTeste.pdb
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\roslyn\csc.exe
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\roslyn\csc.exe.config
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\roslyn\csc.rsp
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\roslyn\csi.exe
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\roslyn\csi.exe.config
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\roslyn\csi.rsp
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\roslyn\Microsoft.Win32.Primitives.dll
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\roslyn\System.AppContext.dll
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\roslyn\System.Console.dll
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\roslyn\System.Diagnostics.Process.dll
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\roslyn\System.IO.Compression.dll
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\roslyn\System.IO.Pipes.dll
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\roslyn\System.Security.AccessControl.dll
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\roslyn\System.Security.Claims.dll
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\roslyn\System.Security.Cryptography.Encoding.dll
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\roslyn\System.Security.Principal.Windows.dll
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\roslyn\System.Text.Encoding.CodePages.dll
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\roslyn\System.Threading.Thread.dll
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\roslyn\System.Xml.ReaderWriter.dll
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\roslyn\System.Xml.XmlDocument.dll
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\roslyn\System.Xml.XPath.dll
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\roslyn\System.Xml.XPath.XDocument.dll
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\roslyn\vbc.exe
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\roslyn\vbc.exe.config
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\roslyn\vbc.rsp
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\roslyn\VBCSCompiler.exe.config
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\Antlr3.Runtime.dll
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\CamadaDAL.dll
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\EntityFramework.dll
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\EntityFramework.SqlServer.dll
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\Microsoft.AI.Web.dll
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\Microsoft.AI.WindowsServer.dll
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\Microsoft.ApplicationInsights.dll
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\Microsoft.Web.Infrastructure.dll
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\Newtonsoft.Json.dll
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\System.Web.Helpers.dll
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\System.Web.Mvc.dll
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\System.Web.Optimization.dll
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\System.Web.Razor.dll
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\System.Web.WebPages.Deployment.dll
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\System.Web.WebPages.dll
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\System.Web.WebPages.Razor.dll
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\WebGrease.dll
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\Dapper.dll
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\CamadaDAL.pdb
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\CamadaDAL.dll.config
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\EntityFramework.xml
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\EntityFramework.SqlServer.xml
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\System.Web.Helpers.xml
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\System.Web.Mvc.xml
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\System.Web.Optimization.xml
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\System.Web.Razor.xml
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\System.Web.WebPages.xml
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\System.Web.WebPages.Deployment.xml
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\System.Web.WebPages.Razor.xml
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\Antlr3.Runtime.pdb
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\Newtonsoft.Json.xml
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\Microsoft.ApplicationInsights.xml
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\Microsoft.AI.WindowsServer.xml
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\Microsoft.AI.Web.xml
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\Dapper.xml
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\pt-br\System.Web.Helpers.resources.dll
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\pt-br\System.Web.Mvc.resources.dll
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\pt-br\System.Web.Optimization.resources.dll
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\pt-br\System.Web.Razor.resources.dll
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\pt-br\System.Web.WebPages.resources.dll
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\obj\Debug\WebApplicationTeste.csprojResolveAssemblyReference.cache
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\obj\Debug\WebApplicationTeste.csproj.CoreCompileInputs.cache
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\obj\Debug\WebApplicationTeste.csproj.CopyComplete
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\obj\Debug\WebApplicationTeste.dll
+c:\users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\obj\Debug\WebApplicationTeste.pdb
+C:\Users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\CamadaModel.dll
+C:\Users\vagne\source\repos\TesteTOTVS\WebApplicationTeste\bin\CamadaModel.pdb
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\ApplicationInsights.config
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\WebApplicationTeste.dll.config
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\WebApplicationTeste.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\WebApplicationTeste.pdb
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\roslyn\csc.exe
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\roslyn\csc.exe.config
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\roslyn\csc.rsp
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\roslyn\csi.exe
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\roslyn\csi.exe.config
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\roslyn\csi.rsp
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\roslyn\System.AppContext.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\roslyn\System.Collections.Immutable.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\roslyn\System.Console.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\roslyn\System.Diagnostics.Process.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\roslyn\System.IO.Compression.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\roslyn\System.IO.FileSystem.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\roslyn\System.IO.Pipes.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\roslyn\System.Reflection.Metadata.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\roslyn\System.Security.AccessControl.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\roslyn\System.Security.Claims.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\roslyn\System.Security.Principal.Windows.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\roslyn\System.Threading.Thread.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\roslyn\System.ValueTuple.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\roslyn\System.Xml.XmlDocument.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\roslyn\System.Xml.XPath.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\roslyn\vbc.exe
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\roslyn\vbc.exe.config
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\roslyn\vbc.rsp
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\roslyn\VBCSCompiler.exe
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\roslyn\VBCSCompiler.exe.config
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\Antlr3.Runtime.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\CamadaDAL.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\CamadaModel.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\EntityFramework.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\EntityFramework.SqlServer.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\Microsoft.AI.Agent.Intercept.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\Microsoft.AI.DependencyCollector.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\Microsoft.AI.Web.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\Microsoft.AI.WindowsServer.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\Microsoft.ApplicationInsights.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\Microsoft.Web.Infrastructure.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\Newtonsoft.Json.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\System.Web.Helpers.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\System.Web.Mvc.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\System.Web.Optimization.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\System.Web.Razor.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\System.Web.WebPages.Deployment.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\System.Web.WebPages.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\System.Web.WebPages.Razor.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\WebGrease.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\Dapper.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\CamadaDAL.pdb
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\CamadaDAL.dll.config
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\CamadaModel.pdb
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\EntityFramework.xml
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\EntityFramework.SqlServer.xml
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\System.Web.Helpers.xml
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\System.Web.Mvc.xml
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\System.Web.Optimization.xml
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\System.Web.Razor.xml
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\System.Web.WebPages.xml
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\System.Web.WebPages.Deployment.xml
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\System.Web.WebPages.Razor.xml
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\Antlr3.Runtime.pdb
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\Newtonsoft.Json.xml
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\Microsoft.ApplicationInsights.xml
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\Microsoft.AI.DependencyCollector.xml
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\Microsoft.AI.WindowsServer.xml
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\Microsoft.AI.Web.xml
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\Dapper.xml
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\pt-br\System.Web.Helpers.resources.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\pt-br\System.Web.Mvc.resources.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\pt-br\System.Web.Optimization.resources.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\pt-br\System.Web.Razor.resources.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\pt-br\System.Web.WebPages.resources.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\obj\Debug\WebApplicationTeste.csprojAssemblyReference.cache
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\obj\Debug\WebApplicationTeste.csproj.CoreCompileInputs.cache
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\obj\Debug\WebApplicationTeste.csproj.CopyComplete
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\obj\Debug\WebApplicationTeste.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\TesteTOTVS\TesteTOTVS\WebApplicationTeste\obj\Debug\WebApplicationTeste.pdb
